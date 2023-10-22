@@ -10,4 +10,12 @@ int main(){
     scanf("%lf",&lat1);
     printf("Latitude (in degrees): ");
     scanf("%lf",&lon1);
+
+    printf("Ennter the coordinates of the destination:\n");
+    printf("Latitude (in degrees): ");
+    scanf("%lf",&lat2);
+    printf("Longitude (in degrees)");
+    scanf("%lf",&lon2);
+
+    
 }
