@@ -17,5 +17,11 @@ int main(){
     printf("Longitude (in degrees)");
     scanf("%lf",&lon2);
 
+    double temp1,temp2,temp3,temp4;
+    temp1 = lat1;
+    temp2 = lon1;
+    temp3 = lat2;
+    temp4 = lon2;
+
     
 }
