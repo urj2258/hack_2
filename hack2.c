@@ -23,5 +23,10 @@ int main(){
     temp3 = lat2;
     temp4 = lon2;
 
+    lat1 = lat1 * 3.12/180.0; 
+    lon1 = lon1 * 3.12/180.0;
+    lat2 = lat2 * 3.12/180.0;
+    lon2 = lon2 * 3.12/180.0;
+
     
 }
